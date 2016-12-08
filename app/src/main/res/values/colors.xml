@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#ffffff</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="color_accent">#000000</color>
+    <color name="trans">#00000000</color>
+    <color name="black">#ef000000</color>
+    <color name="myblack">#000000</color>
+    <color name="huise">#d1d1d1</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="text_color_getverfy">#1992ff</color>
+    <color name="text_color_titlenormal">#eff1f3</color>
+    <color name="text_color_restartget">#959597</color>
+    <color name="text_color_blue">#1992ff</color>
+    <color name="text_color_yellow">#1992ff</color>
+    <color name="translucent">#00000000</color>
+    <color name="text_color_gray">#e6e9ed</color>
+    <color name="text_color_black">#6d6d6d</color>
+    <color name="background_yellow">#fec336</color>
+    <color name="blend_item_theme_color">#ff005092</color>
+    <color name="blend_item_divider_color">#ffededed</color>
+    <color name="mine_page_title_color">#000000</color>
+    <color name="mine_transp_color">#a4cdea</color>
+    <color name="playground_tabs_normal">#777777</color>
+    <color name="user_center_normal">#777777</color>
+    <color name="playground_tabs_select">#1992ff</color>
+    <color name="playground_tabs_background">#a4cdea</color>
+    <color name="goods_tabs_color">#ffffff</color>
+    <color name="linecolor">#cccccc</color>
+
+
+    <!-- 常用颜色值 -->
+    <color name="theme_red">#fc412c</color>
+    <color name="my_red">#ee2433</color>
+    <color name="white40">#40FFFFFF</color>
+    <color name="bt_login_51bba8">#51bba8</color>
+    <color name="transparent">#00000000</color>
+    <color name="red_light">#ffff4444</color>
+    <color name="green_light">#ff99cc00</color>
+    <color name="orange_light">#ffffbb33</color>
+    <color name="blue_light">#ff33b5e5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+
+    <color name="main_green">#40AA53</color>
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#333</color>
+    <color name="main_purple">#576B95</color>
+    <color name="actionbar_background">@color/main_green</color>
+    <color name="window_background">#EBEBEB</color>
+
+    <color name="comment_yellow">#FFFFEE</color>
+
+    <color name="link_color">#1d6a2a</color>
+
+    <color name="Indigo_colorPrimaryDark">#303f9f</color>
+    <color name="Indigo_colorPrimary">#3f51b5</color>
+    <color name="Indigo_nav_color">#4675FF</color>
+    <color name="dialog_red">#cc4c59</color>
+
+    //雷达效果的颜色
+    <color name="colorAccent">#FF4081</color>
+    <color name="wode">#187fc3</color>
+
+    <!-- 剪切图片的单独颜色 -->
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="first_background">#ffa4ab</color>
+    <color name="second_background">#ffc2c7</color>
+    <color name="transparent_color">#00000000</color>
+
+</resources>

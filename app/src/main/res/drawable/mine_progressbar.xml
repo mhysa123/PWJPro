@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  设置背景色（白色）  -->
+    <item android:id="@android:id/background">
+        <shape>
+            <!-- 设置边框的大小和颜色 -->
+            <stroke
+                android:width="1dip"
+                android:color="@color/black"/>
+
+            <!-- 设置图形内的颜色,此处为透明色 -->
+            <solid android:color="@color/translucent"/>
+
+            <!-- 定义圆角弧度 圆的话就是半径 -->
+            <corners android:radius="2dp"/>
+        </shape>
+    </item>
+
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="5dip"/>
+                <gradient
+                    android:centerColor="#187fc3"
+                    android:endColor="#187fc3"
+                    android:startColor="#187fc3"/>
+            </shape>
+        </clip>
+    </item>
+
+
+</layer-list>
